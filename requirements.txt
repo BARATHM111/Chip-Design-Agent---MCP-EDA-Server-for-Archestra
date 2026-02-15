@@ -1,0 +1,4 @@
+# MCP EDA Server — Dependencies
+mcp[cli]
+uvicorn
+python-dotenv
